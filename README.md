@@ -1,6 +1,6 @@
 # dxadmingivecar
 
-# 🚔 DX Admin Give Car
+# 🚔 DX Admin Give Car discord.gg/dxdev
 
 **DX Development** tarafından hazırlanmış, ESX & QBCore uyumlu, modern UI destekli admin araç verme scripti.
 
