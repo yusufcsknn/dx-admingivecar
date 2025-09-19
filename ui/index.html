@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>DX Admin Give Car</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="menu" class="menu hidden">
+    <div class="header">
+      <h2>🚔 DX Admin Give Car</h2>
+    </div>
+    <div class="form">
+      <label>🎯 Player ID</label>
+      <input id="playerId" type="number" placeholder="Örn: 12">
+      
+      <label>🚗 Araç Model</label>
+      <input id="model" type="text" placeholder="Örn: sultan">
+      
+      <label>🔑 Plaka</label>
+      <input id="plate" type="text" placeholder="Opsiyonel">
+
+      <label>🎨 Araç Rengi</label>
+      <input id="color1" type="color" value="#ffffff">
+    </div>
+    <div class="buttons">
+      <button id="close" class="btn danger">❌ Kapat</button>
+      <button id="spawn" class="btn success">✅ Araç Ver</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
